@@ -9,7 +9,7 @@ public class GitTest {
         System.out.println("hello,git4~");
         System.out.println("hello,git test");
         System.out.println("hello,master test1");
-        System.out.println("hello,master");
+        System.out.println("hello,master,hello,master,hello,master");
 
 
 
